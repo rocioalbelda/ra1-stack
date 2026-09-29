@@ -1,3 +1,4 @@
+# Seguridad en el stack
 services:
   web:
     image: php:8.3-apache
